@@ -24,10 +24,10 @@ A fan-made **Windows 12 concept desktop that runs entirely in your browser** —
 
 No installation needed.
 
-1. Download **`index.html`**.
+1. Download **the latest release from the Releases**.
 2. Open it in any modern browser (Chrome, Edge, Firefox, Safari).
 
-That's it. To edit, open the same file in any text editor.
+That's it. To edit, open the same file in any text editor by changing its file extension to .txt.
 
 ## 🖥️ Running locally (optional)
 
@@ -62,7 +62,7 @@ npx serve
 
 ## 📄 License
 
-MIT — see `LICENSE`. (Add a license file of your choice.)
+MIT — see `LICENSE`.
 
 ## 🙌 Credits
 
